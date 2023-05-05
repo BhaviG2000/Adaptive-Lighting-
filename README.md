@@ -15,3 +15,5 @@ turned up, the LED’s will flash according to the music. These two
 sensors are then tied up with an LCD display that shows the
 value received from both the temperature sensor and the sound
 sensor
+![Picture1](https://user-images.githubusercontent.com/132693904/236529173-c8245739-a8a7-4012-b098-85deffaeade4.jpg)
+![Picture2](https://user-images.githubusercontent.com/132693904/236529187-cb587817-b318-4064-bc25-3154c37ec1b1.jpg)
